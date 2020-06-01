@@ -1,7 +1,6 @@
 ## Install & Running
 <pre><code>
 git clone https://github.com/PoChan9/InstaDemo
-pipenv install
 pipenv shell
 pipenv install django
 python manage.py makemigrations Insta
